@@ -1,0 +1,10 @@
+
+ 10.7 MHZ IF Output
+
+ The buffered 10.7 MHz IF Output is available at the emmiter of transistor of Q85.
+ Q85 is located close to the edge of the large board, near J1. If you place the radio
+ with the antenna connection to the left, Q85 is the first transisor to the right of
+ the smaller IF filter at the top lefhand corner of the RF board. This is directly
+ above the metal can for one of the LO's. The emmitter is the upper left terminal
+ (if the radio is oriented as described above). There will be a DC level at this point,
+ so will want a coupling capacitor. (Thanks to gr8amp in the forums)
